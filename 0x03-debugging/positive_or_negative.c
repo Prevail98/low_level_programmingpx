@@ -3,9 +3,9 @@
 /* betty style doc for function main goes there */
 /**
 * positive_or_negative - single function is the starting point
-* @i: our number to test 
+* @i: our number to test
 *
-* Return: void 
+* Return: void
 */
 void positive_or_negative(int i)
 {
