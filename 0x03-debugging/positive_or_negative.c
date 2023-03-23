@@ -1,9 +1,11 @@
 #include <stdio.h>
+
 /* betty style doc for function main goes there */
 /**
- * main - main is the starting point
+ * positive_or_negative - single function is the starting point
+ * @parameter: int i
  *
- * Return: Returns value
+ * Return: void 
  */
 
 void positive_or_negative(int i)
