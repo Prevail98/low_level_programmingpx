@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * isupper - check if a character is a digit
+ * _isupper - check if a character is a digit
  *
  * @x: the number to be checked
  *
@@ -10,7 +10,7 @@
 
 	int _isupper(int x)
 {
-	if(x >= 65 && x <= 90)
+	if (x >= 65 && x <= 90)
 	{
 		return (1);
 	}
