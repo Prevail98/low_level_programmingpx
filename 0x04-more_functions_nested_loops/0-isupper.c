@@ -8,12 +8,11 @@
  * Return: return 0
  */
 
-	Int _isupper(int x)
+	int _isupper(int x)
+{
+	if(x >= 65 && x <= 90)
 	{
-
-	If(x >= 65 && x <= 90)
-	{
-	return (1);
+		return (1);
 	}
 	return (0);
-	}
+}
