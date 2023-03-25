@@ -2,9 +2,7 @@
 
 /**
  * more_numbers - Print 18 times the numbers since up to 14
- *
  * Return: 10 times of the numbers since up to 14
- *
  */
 
 void more_numbers(void)
