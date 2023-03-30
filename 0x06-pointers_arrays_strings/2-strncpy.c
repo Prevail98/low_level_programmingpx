@@ -10,6 +10,7 @@
 * @n: number of strings
 *
 * Return: destination string
+*/
 
 char strncpy(char *dest, char *src, int n)
 {
